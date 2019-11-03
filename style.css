@@ -1,0 +1,33 @@
+
+body{
+    background-color: #f0efef;
+}
+header{
+    background-color: #033048;
+    height: 100px;
+    display: flex;
+}
+.logo{
+    background-color: blue;
+    justify-content: left;
+    margin-left: 10px;
+    margin-top: 2px;
+    
+
+}
+nav>div{
+    color: #033048;
+    width: 125px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 15px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-family: verdana;
+    float: right;
+}
+.sidebar{
+    width: 35%;
+    margin-top: 10%;
+}
